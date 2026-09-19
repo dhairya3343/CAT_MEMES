@@ -1,4 +1,4 @@
-# 😹 Cat Meme Gesture Detector
+# Cat Meme Gesture Detector
 
 Your webcam reacts to your face and hands with memes. Raise your eyebrows, open your mouth, put a finger on your lips, or make a shocked face, and the matching meme pops up next to your live camera feed, in real time.
 
