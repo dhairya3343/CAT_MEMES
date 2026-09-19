@@ -1,0 +1,13 @@
+# virtual environment (bahut bhaari hota hai, GitHub par nahi jaana chahiye)
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
